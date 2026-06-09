@@ -284,7 +284,7 @@ export default function Home() {
       <p className="text-gray-500 text-lg leading-9">
         Lorem ipsum dolor sit amet . <br />
         Imperdiet Lorem ipsum dolor sit <br />
-        amet consectetur
+        amet consectetur plll
       </p>
     </div>
 
